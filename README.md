@@ -1,4 +1,3 @@
-# analise-acidentes-cat
 # Análise de Acidentes de Trabalho no Brasil (CAT/INSS)
 
 Análise exploratória das Comunicações de Acidente de Trabalho (CAT) do Brasil,
